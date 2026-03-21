@@ -1,0 +1,41 @@
+/* Navigation Bar Styling */
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    position: relative;
+}
+
+/* Navigation container - positions nav items to the right */
+.nav-container {
+    position: absolute;
+    top: 1rem;
+    right: 2rem;
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    z-index: 100;
+}
+
+.nav-container a {
+    text-decoration: none;
+    color: var(--text-normal, #333);
+    font-weight: 500;
+    transition: color 0.2s ease;
+    font-size: 1rem;
+}
+
+.nav-container a:hover {
+    color: var(--text-accent, #007acc);
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .nav-container {
+        position: static;
+        flex-direction: column;
+        gap: 1rem;
+        margin-top: 1rem;
+    }
+}
