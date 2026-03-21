@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/success-stories/moving-misalignment-into-momentum/"}
 ---
 
+# Moving Misalignment Into Momentum
+
 Teaser:
 An A-Team of engineers builds a product with a tight deadline and high cost for failure. the project gets behind due to changing landscape and a lack of alignment. Will they deliver the product on time, or will they cost the company $300,000 in service fees?
 
@@ -33,7 +35,7 @@ Lessons learned:
 - Micromanagement is an easy tool to reach for when projects or teams get out of hand, but it often slows work down even further. Instead seek alignment with your team around your goals and what success looks like. Support and empower your team to make decisions in line with your vision (course correct when needed) and the team can develop solutions without monopolizing your time making every detailed decision.
 - Landscapes are always changing, rarely do we work on the *exact* same product with the *exact* same goals for more than a month before they shift. Expect and plan for the shift, create regular alignment sessions, and deliver frequently so you can pivot when needed.
 
+---
+
 If you are interested in exploring these lessons further, need a little more structure on your team, or are facing similar situations- [[lets connect\|let's connect.]] There are a variety of ways I can help you and your team.
 
----
-tldr: A team builds a product with a tight deadline, gets behind due to changing landscape and a lack of communication and alignment.
