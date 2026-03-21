@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-posts/why-teams/"}
+{"dg-publish":true,"permalink":"/blog-posts/why-teams/","tags":["teams"]}
 ---
 
 Here are some thoughts on why teams?

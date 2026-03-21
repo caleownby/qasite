@@ -9,8 +9,8 @@ Formalized blog posts will go here, if you are looking for something a little le
 
 Here are some of my latest blog posts 
 
-| File                                   | tags |
-| -------------------------------------- | ---- |
-| [[blog_posts/Why Teams\|Why Teams]] | \-   |
+| File                                   | tags                    |
+| -------------------------------------- | ----------------------- |
+| [[blog_posts/Why Teams\|Why Teams]] | <ul><li>teams</li></ul> |
 
 { .block-language-dataview}

@@ -3,7 +3,7 @@
 ---
 
 
-**This is a text formatted Version of my Resume, you can find a better representation of my work experience and expertise via my [LinkedIn](www.linkedin.com/in/caleownby) or through my [[Case Studies\|Case Studies]].
+**This is a text formatted Version of my Resume, you can find a better representation of my work experience and expertise via my [LinkedIn](www.linkedin.com/in/caleownby) or through my [[Success Stories\|Success Stories]].
 
 
 
