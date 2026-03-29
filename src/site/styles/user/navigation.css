@@ -1,41 +1,46 @@
-/* Navigation Bar Styling */
+/* Make header a flexbox container to hold site name and nav side-by-side */
 .site-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 1rem 2rem;
-    position: relative;
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    flex-wrap: wrap !important;
 }
-
-/* Navigation container - positions nav items to the right */
-.nav-container {
-    position: absolute;
-    top: 1rem;
-    right: 2rem;
+ 
+/* Navigation styling - sits on the right side of header */
+.custom-nav {
     display: flex;
     gap: 2rem;
-    align-items: right;
-    z-index: 100;
+    align-items: center;
+    margin-left: auto;
 }
-
-.nav-container a {
+ 
+.custom-nav a {
     text-decoration: none;
-    color: var(--text-normal, #333);
+    color: var(--text-normal);
     font-weight: 500;
     transition: color 0.2s ease;
     font-size: 1rem;
+    white-space: nowrap;
 }
-
-.nav-container a:hover {
-    color: var(--text-accent, #007acc);
+ 
+.custom-nav a:hover {
+    color: var(--link-color);
+    text-decoration: underline;
 }
-
-/* Mobile responsive */
+ 
+/* Mobile responsive - stack navigation below site name */
 @media (max-width: 768px) {
-    .nav-container {
-        position: static;
+    .site-header {
         flex-direction: column;
-        gap: 1rem;
+        align-items: flex-start !important;
+    }
+    
+    .custom-nav {
+        margin-left: 0;
         margin-top: 1rem;
+        width: 100%;
+        flex-direction: column;
+        gap: 0.5rem;
+        align-items: flex-start;
     }
 }
