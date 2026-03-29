@@ -1,17 +1,25 @@
-/* Make header a flexbox container to hold site name and nav side-by-side */
-.site-header {
+/* Target the header element specifically and make it flex */
+body > header {
     display: flex !important;
     justify-content: space-between !important;
     align-items: center !important;
     flex-wrap: wrap !important;
+    padding: 1rem 2rem !important;
+    gap: 1rem !important;
 }
  
-/* Navigation styling - sits on the right side of header */
-.custom-nav {
-    display: flex;
+/* Make sure any title/heading in header stays on left */
+body > header > *:not(.custom-nav) {
+    flex: 0 1 auto;
+}
+ 
+/* Navigation styling - positioned on the right in the header */
+header .custom-nav {
+    display: flex !important;
     gap: 2rem;
     align-items: center;
-    margin-left: auto;
+    margin-left: auto !important;
+    flex-shrink: 0;
 }
  
 .custom-nav a {
@@ -28,16 +36,15 @@
     text-decoration: underline;
 }
  
-/* Mobile responsive - stack navigation below site name */
+/* Mobile responsive */
 @media (max-width: 768px) {
-    .site-header {
-        flex-direction: column;
+    body > header {
+        flex-direction: column !important;
         align-items: flex-start !important;
     }
     
-    .custom-nav {
-        margin-left: 0;
-        margin-top: 1rem;
+    header .custom-nav {
+        margin-left: 0 !important;
         width: 100%;
         flex-direction: column;
         gap: 0.5rem;
