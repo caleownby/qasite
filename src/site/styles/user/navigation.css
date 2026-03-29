@@ -1,28 +1,20 @@
-/* Target the header element specifically and make it flex */
-body > header {
+/* Style the navbar to be a flex container */
+.navbar-inner {
     display: flex !important;
     justify-content: space-between !important;
     align-items: center !important;
-    flex-wrap: wrap !important;
-    padding: 1rem 2rem !important;
-    gap: 1rem !important;
+    padding: 0 2rem !important;
 }
  
-/* Make sure any title/heading in header stays on left */
-body > header > *:not(.custom-nav) {
-    flex: 0 1 auto;
-}
- 
-/* Navigation styling - positioned on the right in the header */
-header .custom-nav {
+/* Navigation styling inside navbar */
+.custom-nav-inline {
     display: flex !important;
     gap: 2rem;
     align-items: center;
     margin-left: auto !important;
-    flex-shrink: 0;
 }
  
-.custom-nav a {
+.custom-nav-inline a {
     text-decoration: none;
     color: var(--text-normal);
     font-weight: 500;
@@ -31,20 +23,26 @@ header .custom-nav {
     white-space: nowrap;
 }
  
-.custom-nav a:hover {
+.custom-nav-inline a:hover {
     color: var(--link-color);
     text-decoration: underline;
 }
  
+/* Hide the custom-nav in header since we're using navbar instead */
+header .custom-nav {
+    display: none !important;
+}
+ 
 /* Mobile responsive */
 @media (max-width: 768px) {
-    body > header {
+    .navbar-inner {
         flex-direction: column !important;
         align-items: flex-start !important;
     }
     
-    header .custom-nav {
+    .custom-nav-inline {
         margin-left: 0 !important;
+        margin-top: 1rem;
         width: 100%;
         flex-direction: column;
         gap: 0.5rem;
