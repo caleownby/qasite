@@ -27,6 +27,9 @@
 
 **PROFESSIONAL EXPERIENCE**
 
+HealthPlan One (HP One)
+
+
 **HP Inc. (Hewlett Packard)
 Apr 2024 – Nov 2024**
 _Global leader in providing innovative technology solutions, making life better for everyone, everywhere._
