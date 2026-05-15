@@ -12,4 +12,4 @@
 
 - If you want to talk about how I can help you, or working on something interesting [[lets connect\|let's connect]].
 
-![cale_hello.jpg|321](/img/user/cale_hello.jpg)
+![cale_hello.jpg|321](/img/user/attachments/cale_hello.jpg)
