@@ -11,3 +11,6 @@ If you are looking for something more specific, I run team and individual worksh
 If you are looking for longer term involvement, I offer consulting and Executive Coaching (read: Coaching for anyone trying to get more organized and unlock their ability to execute on projects).
 
 Send me an email and we can connect: caleownby@gmail.com
+
+![cale_2.jpg|274](/img/user/attachments/cale_2.jpg)
+> The first snow of the season always bring me joy
