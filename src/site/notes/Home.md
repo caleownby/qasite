@@ -3,7 +3,7 @@
 ---
 
 # Hey there, I' Cale Ownby (like the lettuce)
-## I’ve been **building autonomous, empowered, and effective teams** for over a decade. My success comes from staying curious and curating a culture of curiosity with my teams and leaders. Curiosity opens new communication patterns, new solutions, and allows us to leverage the wisdom of the team. 
+#### I’ve been **building autonomous, empowered, and effective teams** for over a decade. My success comes from staying curious and curating a culture of curiosity with my teams and leaders. Curiosity opens new communication patterns, new solutions, and allows us to leverage the wisdom of the team. 
 
 - Check [[Success Stories\|this out]] to see how I have unlocked and unblocked other teams.
 
