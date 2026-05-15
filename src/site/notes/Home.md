@@ -8,7 +8,7 @@
 - Check [[Success Stories\|this out]] to see how I have unlocked and unblocked other teams.
 
 - Find my [[blog\|writing here]]- mostly on leading teams, the power of team work and intentional team origination.
-- I offer [[consulting\|consulting]] and [[Executive Coaching\|Executive Coaching]] services for teams and for leaders.
+- I offer [[Consulting\|consulting]] and [[Executive Coaching\|Executive Coaching]] services for teams and for leaders.
 
 - If you want to talk about how I can help you, or working on something interesting [[lets connect\|let's connect]].
 
