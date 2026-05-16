@@ -8,7 +8,7 @@ I'm open to a low stakes "how's your project going?" chat- to problem solve, rub
 
 If you are looking for something more specific, I run team and individual workshops- geared towards opening up conversations and insights about how to be more productive and mindful. I have a few that you can pick from or I can create something for you or your team.
 
-If you are looking for longer term involvement, I offer [[Consulting\|consulting]] and [[Executive Coaching\|coaching]] (read: Coaching for anyone trying to get more organized and unlock their ability to execute on projects).
+If you are looking for longer term involvement, I offer [[consulting\|consulting]] and [[executive coaching\|coaching]] (read: Coaching for anyone trying to get more organized and unlock their ability to execute on projects).
 
 Send me an email and we can connect: caleownby@gmail.com
 
