@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/lets-connect/"}
 ---
 
+# Let's Connect!
+
 I am a collaborative type- I believe in the power of teams, and coordination, and contributing to something larger than myself. So if you are looking for another person to work through an idea or a process- lets connect.
 
 I'm open to a low stakes "how's your project going?" chat- to problem solve, rubber duck, or collaborate on next steps for whatever you are working on. Your project can be anything from a job search, to a hobby, to a strategy for something bigger- I'm curious to hear what you are working on and thinking about.
